@@ -1,0 +1,82 @@
+.header{
+    background-color: aquamarine;
+    color:#fff;
+    height:90px;
+}
+
+.header-logo{
+    float:left;
+    font-size: 36px;
+    padding:20px 40px;
+}
+
+.header-list{
+    float:left;
+}
+
+.header-list li{
+    float: left;
+    padding: 33px 20px;
+    list-style:none;
+}
+
+.main{
+    padding:100px 80px;
+}
+
+.copy-container h1{
+    font-size:60px;
+}
+
+.copy-container span{
+    color: deeppink;
+}
+
+.contents{
+    height:400px;
+}
+
+.contents h2{
+    font-size: 40px;
+}
+
+.section-title{
+    border-bottom:2px solid #dee7ec;
+}
+
+.contents-item{
+    float:left;
+}
+
+.contents-item p{
+    text-align: center;                     <!--フォントを中央によせる-->
+}
+
+.contents-item img{
+    padding: 121px;
+}
+
+.contents-item p{
+    font-size: 50;
+    font-weight: 900;                        <!--フォントを太くする-->
+}
+
+.footer{
+    background-color:#2f5167;
+    color:#fff;
+    height: 120px;
+    padding:40px;
+}
+
+.footer-logo{
+    font-size: 32px;
+    float:left;
+}
+
+.footer-list{
+    float:right;
+}
+
+.footer-list li{
+    padding-bottom:20px;
+}
